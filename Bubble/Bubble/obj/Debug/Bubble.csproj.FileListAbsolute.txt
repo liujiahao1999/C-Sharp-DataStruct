@@ -1,7 +1,0 @@
-F:\gitC#数据结构\C-Sharp-DataStruct\Sort\Bubble\Bubble\bin\Debug\Bubble.exe.config
-F:\gitC#数据结构\C-Sharp-DataStruct\Sort\Bubble\Bubble\bin\Debug\Bubble.exe
-F:\gitC#数据结构\C-Sharp-DataStruct\Sort\Bubble\Bubble\bin\Debug\Bubble.pdb
-F:\gitC#数据结构\C-Sharp-DataStruct\Sort\Bubble\Bubble\obj\Debug\Bubble.csprojAssemblyReference.cache
-F:\gitC#数据结构\C-Sharp-DataStruct\Sort\Bubble\Bubble\obj\Debug\Bubble.csproj.CoreCompileInputs.cache
-F:\gitC#数据结构\C-Sharp-DataStruct\Sort\Bubble\Bubble\obj\Debug\Bubble.exe
-F:\gitC#数据结构\C-Sharp-DataStruct\Sort\Bubble\Bubble\obj\Debug\Bubble.pdb
