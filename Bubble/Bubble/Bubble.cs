@@ -28,7 +28,7 @@ namespace Bubble
             {
                 for (int j = 0; j < i; j++)
                 {
-                    //比较相邻两个变量，交换位置
+                    //比较相邻两个变量，交换位置sadasdasdas
                     if (nums[j]>nums[j+1])
                     {
                         Exchange(nums,j,j+1);
